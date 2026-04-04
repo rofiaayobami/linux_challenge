@@ -5,7 +5,7 @@
 
 The goal for today was to revise and strengthen my understanding of the Linux commands learned from Day 1 to Day 3 by practicing them consistently without relying on notes.
 
----
+
 
 ## What I Learned
 
@@ -14,7 +14,7 @@ The goal for today was to revise and strengthen my understanding of the Linux co
 - I became more confident using `find` and `grep` for searching files and content
 - I better understood the difference between overwriting (`>`) and appending (`>>`) in files
 
----
+
 
 ## What I Built / Practiced
 
@@ -24,7 +24,6 @@ The goal for today was to revise and strengthen my understanding of the Linux co
 - Searched for files and text within files using `find` and `grep`
 - Practiced combining commands and checking outputs
 
----
 
 ## Challenges Faced
 
@@ -32,7 +31,7 @@ The goal for today was to revise and strengthen my understanding of the Linux co
 - Mixed up some commands between Windows PowerShell and Linux terminal
 - Took time to fully understand how permissions affect file access
 
----
+
 
 ## Key Takeaways
 
@@ -41,14 +40,13 @@ The goal for today was to revise and strengthen my understanding of the Linux co
 - File permissions are essential for security and proper system usage
 - Mistakes are part of the learning process and help improve understanding
 
----
+
 
 ## Resources
 
 - Notes from Day 1 to Day 3
 - Linux manual pages (`man ls`, `man chmod`, `man grep`)
-- Practice on the remote Ubuntu server
 
----
+
 
 ## Output
