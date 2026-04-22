@@ -45,6 +45,7 @@ The goal for today was to learn how to process files using shell scripting and e
 
 ## Resources
 
+- https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/
 - Linux manual pages (`man grep`, `man wc`)
 - Practice on remote Linux server
 
