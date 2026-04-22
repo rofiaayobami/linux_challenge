@@ -51,8 +51,4 @@ The goal for today was to learn how to search, filter, and manipulate text data 
 
 ## Output
 
-```bash
-grep Mary data.txt
-awk -F',' '{print $1}' data.txt
-awk -F',' '$2 > 24 {print $1}' data.txt
-sed 's/John/Jane/' data.txt
+screenshots
